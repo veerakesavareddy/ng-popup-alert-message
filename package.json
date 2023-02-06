@@ -1,0 +1,23 @@
+{
+  "name": "ng-popup-alert-message",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.0.2",
+    "@angular/core": "^12.0.2"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemanth21/ng-popup-alert-message"
+  },
+  "keywords": [
+    "angular Popup Alert message ",
+    "angular Pop over Alert message ",
+    "custom Popup Alert message",
+    "ng Custom pop over confirmative message"
+  ],
+  "author": "Hemanth Chakka ",
+  "license": "MIT"
+}
